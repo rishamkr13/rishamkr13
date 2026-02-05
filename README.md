@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Computer Science student interested in Full Stack Development and AI/ML. I enjoy building real-world projects, improving my problem-solving skills, and preparing for software engineering roles. Cricket lover 🏏.<br>
+B.Tech Computer Science student interested in Full Stack Development and AI/ML. I enjoy building real-world projects, improving my problem-solving skills, and preparing for software engineering roles.<br>
 
 
 ## 🌐 Socials:
